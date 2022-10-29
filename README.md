@@ -1,16 +1,16 @@
-    # About Project
+# About Project
 
-    These projects for learning how to use Javascript.
+These projects for learning how to use Javascript.
 
-    # NOTE
+# NOTE
 
-    **I don't build this from scratch, just Javascript part.**
+**I don't build this from scratch, just Javascript part.**
 
-    # Summary
+# Summary
 
-    - Project 1: Website app to manage pets.
-    - Project 2: Website reading news by using new API.
+- Project 1: Website app to manage pets.
+- Project 2: Website reading news by using new API.
 
-    # License
+# License
 
-    Author: HDANH
+Author: HDANH
